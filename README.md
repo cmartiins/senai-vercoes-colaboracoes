@@ -2,3 +2,4 @@
 
 iniciando projeto dark inydus
 
+lembrei do comando: git status
